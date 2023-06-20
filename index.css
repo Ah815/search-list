@@ -1,0 +1,54 @@
+.card {
+  height: 230px;
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  margin: 5px;
+  padding: 5px;
+}
+
+img {
+  height: 150px;
+  width: 100%;
+}
+.phone{
+  height: 50px;
+  width: 200px;
+  padding: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
+ 
+  background-color: black;
+  cursor: pointer;
+  color: white;
+  margin-right: 12px;
+  margin-bottom: 10px;
+  border-radius: 25px;
+  text-align: center;
+}
+
+.chip{
+  height: 20px;
+  width: 120px;
+  padding: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
+ 
+  background-color: black;
+  cursor: pointer;
+  color: white;
+  margin-right: 12px;
+  margin-bottom: 10px;
+  border-radius: 25px;
+  text-align: center;
+}
+
+.main{
+height: 30px;
+min-width: 500px;
+}
+.box{
+ display: flex;
+ justify-content: center;
+ margin: 10px;
+}
